@@ -6,7 +6,7 @@ git clone https://github.com/LuciusPook/Express-movielist.git
 
 2.開啟終端機(Terminal)，進入存放此專案的資料夾
 ```
-cd Express-movielist
+cd movie_list
 ```
 
 3.安裝 npm 套件
